@@ -1,0 +1,23 @@
+{
+  "name": "consistency-app",
+  "version": "1.0.0",
+  "description": "A MERN stack goal setter app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit1595/consistency-app.git"
+  },
+  "author": "ankit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankit1595/consistency-app/issues"
+  },
+  "homepage": "https://github.com/ankit1595/consistency-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
